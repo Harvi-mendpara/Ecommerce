@@ -1,0 +1,22 @@
+*{
+    font-family: 'Merriweather', serif;
+}
+.mainnav{
+    padding-right: 20px;
+    margin-top: 5px;
+}
+.register{
+    margin-left:600px;
+    margin-top:30px;
+}
+.register-width{
+    width:400px;
+}
+.invalid_input{
+    color: red;
+    display: block;
+    margin-top: 10px;
+}
+.color{
+    color: white;
+}
